@@ -6,8 +6,8 @@ from aiogram.utils import executor
 logging.basicConfig(level=logging.INFO)
 
 # ========== KONFIGURASI (ubah manual di sini) ==========
-API_TOKEN = "ISI_TOKEN_BOT_KAMU_DI_SINI"   # <-- isi token dari @BotFather
-OWNER_ID = 123456789                       # <-- isi dengan numeric Telegram ID owner
+API_TOKEN = "Z9rJhqLeNptKJ@H"   # <-- isi token dari @BotFather
+OWNER_ID = 7698417558                       # <-- isi dengan numeric Telegram ID owner
 CREDIT_PRICE = 10000                       # harga tampil (opsional)
 # ======================================================
 
